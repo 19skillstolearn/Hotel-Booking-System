@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.skillstolearn.hotelsearch.captcha.CaptchaSettings",
+      "name": "google.recaptcha.key",
+      "type": "com.skillstolearn.hotelsearch.captcha.CaptchaSettings"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.skillstolearn.hotelsearch.captcha.CaptchaSettings",
+      "name": "google.recaptcha.key.secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.skillstolearn.hotelsearch.captcha.CaptchaSettings",
+      "name": "google.recaptcha.key.site",
+      "type": "java.lang.String"
+    }
+  ]
+}
